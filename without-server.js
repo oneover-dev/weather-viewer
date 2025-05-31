@@ -8,4 +8,4 @@ async function checkWeather(city) {
     }
 }
 
-checkWeather("Newyork");
+checkWeather("your_city") 
