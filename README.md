@@ -1,6 +1,6 @@
 # Simple weather viewer in Your City
 
-A basic script  on pure Node.js that displays current weather information for your specified city.
+A basic script  on pure Node.js that displays current weather information for your specified city. 
 
 ## How to Use
 
